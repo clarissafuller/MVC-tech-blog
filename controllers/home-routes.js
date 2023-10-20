@@ -16,6 +16,11 @@ router.get("/", async (req, res) => {
     res.status(500).json(err);
   }
 });
+//route for the login page that renders the login handlebars
+router.get("/login", (req, res) => {
+  // You can render a "login" handlebars view here
+  res.render("login");
+});
 
 // GET one post
 // router.get("/gallery/:id", async (req, res) => {
