@@ -6,7 +6,7 @@ router.get("/", async (req, res) => {
   try {
     const dbPostData = await Post.findAll();
 
-    const posts = dbPostData.map((posts) => post.get({ plain: true }));
+    const posts = dbPostData.map((post) => post.get({ plain: true }));
 
     res.render("homepage", {
       posts,
