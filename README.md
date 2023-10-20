@@ -32,12 +32,7 @@ The process should look something like this:
 
 ## Contributing
 
-The collaborators on this project include:
-
-- [Will Tonkel](https://github.com/Tonkel)
-- [Clarissa Fuller](https://github.com/clarissafuller)
-- [Wayne Chen](https://github.com/wayne80361)
-- [Taylor Sullivan](https://github.com/tayskully)
+No additional contributors for this project 
 
 Tutorials followed include Columbia University Coding Bootcamp 2023, as well as:
 
@@ -46,7 +41,6 @@ Tutorials followed include Columbia University Coding Bootcamp 2023, as well as:
 - [Dev.to](https://dev.to/)
 - [W3 Schools](https://www.w3schools.com/)
 
-Special thanks to Ben Wright for the guidance and additional weekend volunteering! You're the Best!
 
 ## License
 
@@ -56,7 +50,7 @@ Special thanks to Ben Wright for the guidance and additional weekend volunteerin
 
 Reach out to us if you have any questions!
 
-- Email: taysully94@gmail.com
+- Email: clarissafuller5@gmail.com
 
 ---
 
